@@ -1,0 +1,2 @@
+SWEEP CURRENT,Current Step Code 0x79 (DEC),Pulse Step Code 0x7A (DEC),Aperture Time,No.of Points,Measure Wavelength,DelayBeforeMeasure(s),DelayBeforeNextStep(s),Write 0xD2 (DEC),Write 0xD3 (DEC),SCOPE TRIGGER(V),SCOPEVerticalScale(V),SCOPETimeBaseScale(s),SCOPETimeBaseSamplingRate(Hz),SCOPETimeBaseTrigPos(%),SCOPERecordLen,SCOPEAverageN,#PollWaveform
+Sweep_01,45,29,0.00001,5000,TRUE,2.5,0.1,0,0,0.008,1.00E-02,2.00E-10,5.00E+11,30,1000,16,2
